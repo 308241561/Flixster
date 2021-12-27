@@ -7,7 +7,7 @@
 - [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
 - [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
 
-#### BONUS
+#### BONUS ####
 
 - [ ] Implement a shared element transition when user clicks into the details of a movie (1 point).
 - [ ] Trailers for popular movies are played automatically when the movie is selected (1 point).
